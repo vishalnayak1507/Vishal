@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #111;
+    color: #fff;
+}
+
+header {
+    background-color: #111;
+    padding: 1rem;
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: #222;
+    padding: 0.5rem;
+}
+
+nav a {
+    color: #de7979;
+    text-decoration: none;
+    padding: 1rem;
+    margin: 0 1rem;
+}
+
+main {
+    padding: 2rem;
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.movie {
+    width: 200px;
+    text-align: center;
+}
+
+.movie img {
+    width: 100%;
+    height: auto;
+}
+
+footer {
+    background-color: #111;
+    padding: 1rem;
+    text-align: center;
+}
+.MY.list img
+{
+    max-width: 150px; 
+    max-height: 200px; 
+    width: auto;
+    height: auto;
+}
+
+.New.popular.popular img {
+    max-width: 150px; 
+    max-height: 200px;
+    width: auto;
+    height: auto;
+}
